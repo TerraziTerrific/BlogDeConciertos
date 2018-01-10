@@ -5,3 +5,28 @@ body
   font-family: verdana;
   color: white;
 }
+
+h1
+{
+  font-family: arial;
+}
+
+img
+{
+  background-color:white;
+}
+
+#img2
+{
+  width: 80%;
+}
+a
+{
+    color: inherit;
+}
+
+div
+{
+  margin-left: 20px;
+  margin-top: 10px;
+}
